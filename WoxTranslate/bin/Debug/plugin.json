@@ -1,0 +1,12 @@
+﻿{
+  "ID": "5b0e4ea2-fd4b-4829-8808-ee258fa0b6da",
+  "ActionKeyword": "trl",
+  "Name": "WoxTranslate",
+  "Description": "My Wox Translate",
+  "Author": "Jayden Huang",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "http://www.getwox.com",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName": "WoxTranslate.dll"
+}
